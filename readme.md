@@ -1,6 +1,7 @@
-# Foobar
+# Mckeen's tutorial for whatsapp clone -> react native with firebase/firestore
 
-Foobar is a Python library for dealing with word pluralization.
+Credits to: https://www.youtube.com/watch?v=EvSUJ5lUcBw
+          : https://www.youtube.com/watch?v=eET0YtDBWWg
 
 ## Installation
 
