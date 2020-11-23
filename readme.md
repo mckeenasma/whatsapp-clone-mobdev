@@ -1,5 +1,5 @@
 # Mckeen's WhatsApp Clone 
-##### React Native with Firebase/Firestore
+##### React Native with Firebase/Firestore (Currently Filehandling)
 
 
 Credits to: 
