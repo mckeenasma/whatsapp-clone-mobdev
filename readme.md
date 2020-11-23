@@ -1,27 +1,10 @@
-# Mckeen's tutorial for whatsapp clone -> react native with firebase/firestore
+# Mckeen's WhatsApp Clone 
+##### React Native with Firebase/Firestore
 
-Credits to: https://www.youtube.com/watch?v=EvSUJ5lUcBw
-          : https://www.youtube.com/watch?v=eET0YtDBWWg
 
-## Installation
+Credits to: 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+* [Build a Realtime Chat App in React Native (tutorial for begginers) 🔴
+](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+* [React Native Firebase Firestore | Cloud Firestore Database🔴](https://www.youtube.com/watch?v=eET0YtDBWWg)
